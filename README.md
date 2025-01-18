@@ -30,7 +30,7 @@ Twitter is a popular social media platform known for its real-time, concise, and
 
 ## Live Link
 
-https://notes-app.netlify.app/
+https://twitter-clone-oqh3.onrender.com
 
 
 ## Run Locally
