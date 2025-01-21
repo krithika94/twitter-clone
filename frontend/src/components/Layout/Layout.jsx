@@ -9,9 +9,9 @@ const Layout = (props) => {
     <>
         
         <main className='flex max-w-6xl mx-auto'>
-        <header>
+        {/* <header> */}
           {authUser && <Sidebar/>}
-        </header>
+        {/* </header> */}
           {props.children}
         <aside> 
           {authUser && <RightPanel/>}
